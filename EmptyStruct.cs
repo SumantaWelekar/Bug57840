@@ -1,7 +1,7 @@
 ﻿using System;
 namespace PortableAndNetStandard
 {
-	public struct EmptyStruct
-	{
-	}
+    public struct EmptyStruct
+    {
+    }
 }
